@@ -1,0 +1,7 @@
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\bin\Debug\GestorCliente.exe.config
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\bin\Debug\GestorCliente.exe
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\bin\Debug\GestorCliente.pdb
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\obj\Debug\GestorCliente.csproj.AssemblyReference.cache
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\obj\Debug\GestorCliente.csproj.CoreCompileInputs.cache
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\obj\Debug\GestorCliente.exe
+C:\Users\HTC\source\repos\GestorCliente\GestorCliente\obj\Debug\GestorCliente.pdb
